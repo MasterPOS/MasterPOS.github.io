@@ -1,12 +1,4 @@
 theme: jekyll-theme-slate
 title: نرم افزارهای مدیریت فروش و حسابداری رستوران
 description: تحلیل و بررسی راهکارهای نرم افزاری در فروش و بازاریابی
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112770411-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-112770411-1');
-</script>
