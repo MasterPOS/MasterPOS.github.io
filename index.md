@@ -24,7 +24,7 @@
 4. یکپارچگی مامل با کارت های اعتباری و بانکی
 5. پشتیبانی قوی شرکت سازنده
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` text 
 
 [Link](url) and ![Image](src)
 ```
