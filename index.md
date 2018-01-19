@@ -7,24 +7,22 @@
  [نرم افزار حسابداری رستوران](https://sepidz.com) 
 خوب عملا امکان پذیر نیست
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+هنگام انتخاب نرم افزار POS نکاتی وجود دارد که می بایست به آن ها دقت کنیم.
 
-### Markdown
+### ویژگی های لازم نرم افزار حسابداری رستوران
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+پلتفرمی که از آن استفاده می کنید، فارغ از تحت وب یا ویندوز بودن باید با ساختارهایی که برای
+ [مدیریت رستوران](https://sepidz.com/15-%D9%86%DA%A9%D8%AA%D9%87-%D9%85%D9%87%D9%85-%DA%A9%D9%87-%D8%A7%D8%B2-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%AF%D8%A7.html)
+ به کار می برید همخوانی داشته باشد.
 ```markdown
-Syntax highlighted code block
+برخی از مهمترین ویژگی های یک نرم افزار حسابداری رستوران عبارتند از:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. قابلیت ذخیره اطلاعات مشترین در دیتا بیس
+2. توانایی تکمیل و ساخت گزارش های فصلی مالیاتی
+3. سادگی بازیابی اطلاعات قیمت ها از منو
+4. یکپارچگی مامل با کارت های اعتباری و بانکی
+5. پشتیبانی قوی شرکت سازنده
 
 **Bold** and _Italic_ and `Code` text
 
