@@ -1,7 +1,5 @@
 ## راهکارهای نرم افزاری فروش
 
-You can use the [editor on GitHub](https://github.com/MasterPOS/MasterPOS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 این روزها سراغ هر کسب و کاری که بروید، از فروشگاه های آنلاین تا سوپرمارکت ها، همگی از سیستم های نرم افزاری برای مدیریت صندوق، انبار و حتی پرسنل خود استفاده می کنند. و صد البته که رستوران ها نیز از این قاعده مسثنی نیستند.
 نرم افزار های مدیریت فروش رستوران ها تقریبا جز اولین نیازمنددی ها هنگام راه اندازی رستوران به حساب می آیند.
 
