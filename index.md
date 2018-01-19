@@ -24,17 +24,10 @@
 4. یکپارچگی مامل با کارت های اعتباری و بانکی
 5. پشتیبانی قوی شرکت سازنده
 
-**Bold** and _Italic_ and `Code` text 
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+در نگاه اول شاید چندان مهم به نظر نرسد اما با توجه به تغییر رفتار مصرف کننده و خریدار به واسطه رشد روز افزون استفاده از اینترنت، امکان یکپارچه شدن با سامانه های سفارش آنلاین غذا را هم بتوان در فهرست بالا جای داد.
 
-### Jekyll Themes
+### جمع بندی
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MasterPOS/MasterPOS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+هیچ کسب و کاری بدون داشتن عملیات دقیق و به روز حسابداری نمی تواند هزینه های خود را به درستی در جهت بهبود وضعیت و جایگاه برند خود مدیریت کند. رستوران ها نیز از این قاعده مستثنی نیستند و می بایست با بررسی صحیح کارکردها، مدیریت فروش و شناخت نیازهای بازار و با مدیریت صحیح درآمد و هزینه خود در راستای بهبود خدمات خود بکوشند. در این میان استفاده از نرم افزارهیا حسابداری رستوران می تواند وقت و انرژی مدیران را از موضوعات مالی دور کرده تا بتوانند بیشتر و بهتر بر فعالیت های بازاریابی خود تمرکز کنند.
