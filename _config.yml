@@ -4,3 +4,5 @@ description: تحلیل و بررسی راهکارهای نرم افزاری د�
 plugins:
   - jekyll-seo-tag
 
+google_verify: 
+  <meta name="google-site-verification" content="LlHF3jdylfALGIZ31J9-KTW9i3yBep85wJwk680Z9Tg" />
