@@ -1,14 +1,6 @@
 theme: jekyll-theme-slate
 title: نرم افزارهای مدیریت فروش و حسابداری رستوران
-toc:
-  - title: Group 1
-    subfolderitems:
-      - page: Thing 1
-        url: /thing1.html
-      - page: Thing 2
-        url: /thing2.html
-      - page: Thing 3
-        url: /thing3.html
+
 description: تحلیل و بررسی راهکارهای نرم افزاری در فروش و بازاریابی
 plugins:
   - jekyll-seo-tag
