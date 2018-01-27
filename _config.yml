@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
 title: نرم افزارهای مدیریت فروش و حسابداری رستوران
+- title: Configuration
+  url: configuration.html
 description: تحلیل و بررسی راهکارهای نرم افزاری در فروش و بازاریابی
 plugins:
   - jekyll-seo-tag
